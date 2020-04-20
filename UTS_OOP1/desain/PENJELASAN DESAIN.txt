@@ -1,0 +1,23 @@
+PENJELASAN
+
+1. diagram Use case
+interaksi antara aktor dengan sistem yang dibuat.interaksinya aktor dapat
+melakukan penambahan data,mengubah data,menghapus data,dan lihat data.
+
+2. diagram activity
+aliran aktivitas yang dilakukan oleh sistem yang akan dijalankan.
+saat user akan melakukan proses input data kemudian akan 
+diproses oleh sistem. Lalu sistem menampilkan halaman untuk menerima inputan 
+dari user.setelah itu, halaman tersebut akan diproses oleh sistem untuk 
+kemudian dilakukan validasi tentang kebenaran data yang dimasukkan.
+
+3.diagram class
+didalam projek 18090058_DataMahasiswa terdapat beberapa class dan didalam clas tersebut 
+terdapat atribut dan methoud data yang saling berhubungan untuk menjalakan suatu 
+aplikasi.
+
+4. diagram sequence
+menggambarkan interaksi objek dan memberi tahu jika dalam class mahasiswa ke class-class lainnya sudah bener semua
+dan tidak ada eror akan memunculkan menu utama,kalau classmahasiswa
+ada yang eroor di bagian class lainnya , maka tidak akan muncul/menampilkan
+menu utama.
